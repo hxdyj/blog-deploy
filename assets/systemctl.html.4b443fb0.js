@@ -1,0 +1,1 @@
+const e={key:"v-0bbe786c",path:"/pages/linux/systemctl.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"\u6CE8\u518C\u7CFB\u7EDF\u670D\u52A1",slug:"\u6CE8\u518C\u7CFB\u7EDF\u670D\u52A1",children:[]}],git:{},filePathRelative:"pages/linux/systemctl.md"};export{e as data};

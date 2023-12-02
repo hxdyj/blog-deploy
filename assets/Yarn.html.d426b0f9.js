@@ -1,0 +1,9 @@
+import{e as r}from"./app.dc3b6072.js";import{_ as e}from"./plugin-vue_export-helper.21dcd24c.js";const s={},n=r(`<h2 id="yarn" tabindex="-1"><a class="header-anchor" href="#yarn" aria-hidden="true">#</a> Yarn</h2><h3 id="\u8BBE\u7F6E\u56FD\u5185\u6E90" tabindex="-1"><a class="header-anchor" href="#\u8BBE\u7F6E\u56FD\u5185\u6E90" aria-hidden="true">#</a> \u8BBE\u7F6E\u56FD\u5185\u6E90</h3><div class="language-text ext-text line-numbers-mode"><pre class="language-text"><code>yarn config set registry https://registry.npmmirror.com
+</code></pre><div class="line-numbers"><span class="line-number">1</span><br></div></div><h3 id="building-fresh-packages" tabindex="-1"><a class="header-anchor" href="#building-fresh-packages" aria-hidden="true">#</a> Building fresh packages...</h3><p>\u65B0\u5EFA <code>.yarnrc</code> \u6587\u4EF6</p><div class="language-text ext-text line-numbers-mode"><pre class="language-text"><code>registry &quot;https://registry.npmmirror.com&quot;
+sass_binary_site &quot;https://npmmirror.com/mirrors/node-sass/&quot;
+phantomjs_cdnurl &quot;http://cnpmjs.org/downloads&quot;
+electron_mirror &quot;https://npmmirror.com/mirrors/electron/&quot;
+sqlite3_binary_host_mirror &quot;https://foxgis.oss-cn-shanghai.aliyuncs.com/&quot;
+profiler_binary_host_mirror &quot;https://npmmirror.com/mirrors/node-inspector/&quot;
+chromedriver_cdnurl &quot;https://npmmirror.com/mirrors/chromedriver/&quot;
+</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br></div></div>`,6);function a(t,i){return n}var p=e(s,[["render",a]]);export{p as default};

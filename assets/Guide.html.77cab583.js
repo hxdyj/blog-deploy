@@ -1,0 +1,1 @@
+import{a as e,c as t,f as c,g as r}from"./app.dc3b6072.js";import{_ as s}from"./plugin-vue_export-helper.21dcd24c.js";const a={},o={id:"typescript-guide",tabindex:"-1"},d=c("a",{class:"header-anchor",href:"#typescript-guide","aria-hidden":"true"},"#",-1),i=r(" Typescript Guide"),_=[d,i];function n(p,h){return e(),t("h1",o,_)}var l=s(a,[["render",n]]);export{l as default};

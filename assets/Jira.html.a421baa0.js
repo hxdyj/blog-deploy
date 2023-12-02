@@ -1,0 +1,15 @@
+import{r as o,a as r,c as t,f as n,b as e,F as c,g as s,e as p}from"./app.dc3b6072.js";import{_ as l}from"./plugin-vue_export-helper.21dcd24c.js";const i={},d=n("h2",{id:"\u642D\u5EFA-jira",tabindex:"-1"},[n("a",{class:"header-anchor",href:"#\u642D\u5EFA-jira","aria-hidden":"true"},"#"),s(" \u642D\u5EFA Jira")],-1),_={href:"https://github.com/EXP-Tools/jira-docker",target:"_blank",rel:"noopener noreferrer"},m=s("\u5B89\u88C5 jira \u901A\u8FC7 docker \u5BB9\u5668"),u=n("li",null,"nginx \u914D\u7F6E\u57DF\u540D",-1),b=p(`<div class="language-nginx ext-nginx line-numbers-mode"><pre class="language-nginx"><code><span class="token comment">#\u5982\u679C\u662F\u5B9D\u5854\u7684\u8BDD\uFF0C\u9700\u8981\u5220\u9664\u56FE\u7247\u3001css\u7B49\u8DEF\u5F84\u4EE3\u7406\uFF0C\u4EE5\u53CAroot\u5982\u4E0B</span>
+<span class="token comment"># location ~ .*\\.(js|css)?$</span>
+<span class="token comment"># {</span>
+<span class="token comment">#    expires      12h;</span>
+<span class="token comment">#    error_log /dev/null;</span>
+<span class="token comment">#    access_log /dev/null;</span>
+<span class="token comment"># }</span>
+
+<span class="token directive"><span class="token keyword">location</span> /</span> <span class="token punctuation">{</span>
+    <span class="token directive"><span class="token keyword">proxy_set_header</span> X-Forwarded-Host <span class="token variable">$host</span></span><span class="token punctuation">;</span>
+    <span class="token directive"><span class="token keyword">proxy_set_header</span> X-Forwarded-For <span class="token variable">$proxy_add_x_forwarded_for</span></span><span class="token punctuation">;</span>
+    <span class="token directive"><span class="token keyword">proxy_pass</span> http://[ Jira \u90E8\u7F72\u7684\u516C\u7F51 IP ]:8080</span><span class="token punctuation">;</span>
+    <span class="token directive"><span class="token keyword">client_max_body_size</span> <span class="token number">1000m</span></span><span class="token punctuation">;</span>
+<span class="token punctuation">}</span>
+</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br><span class="line-number">12</span><br><span class="line-number">13</span><br><span class="line-number">14</span><br></div></div>`,1),k={id:"jira-doc",tabindex:"-1"},h=n("a",{class:"header-anchor",href:"#jira-doc","aria-hidden":"true"},"#",-1),x=s(),v={href:"https://doc.devpod.cn/jira/jira-360469.html",target:"_blank",rel:"noopener noreferrer"},f=s("Jira Doc");function g(j,y){const a=o("ExternalLinkIcon");return r(),t(c,null,[d,n("ol",null,[n("li",null,[n("a",_,[m,e(a)])]),u]),b,n("h2",k,[h,x,n("a",v,[f,e(a)])])],64)}var E=l(i,[["render",g]]);export{E as default};

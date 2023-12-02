@@ -1,0 +1,1 @@
+const e={key:"v-a6cf2c2e",path:"/pages/tools/Vscode%20debug%20ts.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Vscode \u8C03\u8BD5 Ts",slug:"vscode-\u8C03\u8BD5-ts",children:[]},{level:2,title:"\u914D\u7F6E launch.json",slug:"\u914D\u7F6E-launch-json",children:[]}],git:{},filePathRelative:"pages/tools/Vscode debug ts.md"};export{e as data};

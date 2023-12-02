@@ -1,0 +1,1 @@
+const e={key:"v-251cc5d1",path:"/pages/demo/ImgMark.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"ImgMark \u7EC4\u4EF6\u6F14\u793A",slug:"imgmark-\u7EC4\u4EF6\u6F14\u793A",children:[]}],git:{},filePathRelative:"pages/demo/ImgMark.md"};export{e as data};

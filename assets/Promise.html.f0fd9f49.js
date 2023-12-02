@@ -1,0 +1,1 @@
+const e={key:"v-12f7807c",path:"/pages/javascript/Promise.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Promise",slug:"promise",children:[{level:3,title:"Promise Chaining",slug:"promise-chaining",children:[]},{level:3,title:"Async Await",slug:"async-await",children:[]}]}],git:{},filePathRelative:"pages/javascript/Promise.md"};export{e as data};
