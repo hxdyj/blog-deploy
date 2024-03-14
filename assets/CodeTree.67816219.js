@@ -1,0 +1,1 @@
+import{a as e,c}from"./app.24627d88.js";import{_ as r}from"./plugin-vue_export-helper.21dcd24c.js";const o={},t={class:"comp-code-tree"};function s(a,_){return e(),c("div",t)}var d=r(o,[["render",s]]);export{d as default};

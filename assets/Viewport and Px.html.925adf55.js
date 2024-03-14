@@ -1,0 +1,1 @@
+const e={key:"v-73f724a8",path:"/pages/concepts/Viewport%20and%20Px.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{},filePathRelative:"pages/concepts/Viewport and Px.md"};export{e as data};

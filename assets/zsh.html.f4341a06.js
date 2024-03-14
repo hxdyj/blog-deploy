@@ -1,0 +1,1 @@
+const e={key:"v-3608642d",path:"/pages/other/zsh.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"zsh",slug:"zsh",children:[]}],git:{},filePathRelative:"pages/other/zsh.md"};export{e as data};

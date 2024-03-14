@@ -1,0 +1,1 @@
+const t={key:"v-2d3b4b74",path:"/pages/tools/Gitlab.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"CI/CD",slug:"ci-cd",children:[]}],git:{},filePathRelative:"pages/tools/Gitlab.md"};export{t as data};

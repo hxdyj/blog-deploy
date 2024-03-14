@@ -1,0 +1,1 @@
+const e={key:"v-d1e1e39c",path:"/pages/tools/EditorConfig.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:".editorconfig",slug:"editorconfig",children:[]}],git:{},filePathRelative:"pages/tools/EditorConfig.md"};export{e as data};

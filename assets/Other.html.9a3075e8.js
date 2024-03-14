@@ -1,0 +1,1 @@
+const e={key:"v-0c8fd599",path:"/pages/css/Other.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"css \u8BBE\u7F6E\u81EA\u52A8\u6EDA\u52A8\u5B9A\u4F4D\u7684\u95F4\u8DDD",slug:"css-\u8BBE\u7F6E\u81EA\u52A8\u6EDA\u52A8\u5B9A\u4F4D\u7684\u95F4\u8DDD",children:[]}],git:{},filePathRelative:"pages/css/Other.md"};export{e as data};

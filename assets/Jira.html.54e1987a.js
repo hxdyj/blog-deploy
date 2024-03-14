@@ -1,0 +1,1 @@
+const e={key:"v-8708361a",path:"/pages/tools/Jira.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"\u642D\u5EFA Jira",slug:"\u642D\u5EFA-jira",children:[]},{level:2,title:"Jira Doc",slug:"jira-doc",children:[]}],git:{},filePathRelative:"pages/tools/Jira.md"};export{e as data};

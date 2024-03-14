@@ -1,0 +1,1 @@
+import{a as e,c as r,f as t}from"./app.24627d88.js";import{_ as o}from"./plugin-vue_export-helper.21dcd24c.js";var s="/files/ViewportAndPx.png";const _={},c=t("img",{src:s,alt:""},null,-1),a=[c];function n(p,l){return e(),r("p",null,a)}var f=o(_,[["render",n]]);export{f as default};
